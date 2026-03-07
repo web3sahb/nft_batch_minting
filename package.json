@@ -16,6 +16,6 @@
     "babel-preset-stage-2": "^6.24.1",
     "babel-preset-stage-3": "^6.24.1",
     "babel-register": "^6.26.0",
-    "web3": "^1.6.1"
+    "web3": "^4.16.0"
   }
 }
